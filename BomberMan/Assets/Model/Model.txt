@@ -1,0 +1,2 @@
+This is the model:
+this will contain all the variables for the code
